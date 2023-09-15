@@ -1,0 +1,1 @@
+python main.py C:\Users\bilal\Projects\Python\JPG-to-PNG-converter\InputJPG OutputPNG
